@@ -8,3 +8,4 @@ I am an electrical engineer and future data scientist, turning simple informatio
 
 ---
 
+Skills: VUE JS / REACT / JS / HTML / CSS
