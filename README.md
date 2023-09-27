@@ -8,4 +8,6 @@ I am an electrical engineer and future data scientist, turning simple informatio
 
 ---
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+### Languages and Tools
+
+<img align="left" alt="Javaa" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
