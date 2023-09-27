@@ -1,6 +1,8 @@
 # Gabriel Kreuz
 
-**`Engenheiro Eletricista / Cientista de Dados (em andamento)`**
+**`Electrical Engineer / Data Science Student`**
 
-Eu sou um engenheiro eletricista e futuro cientísta de dados, transformando simples informações em soluções para problemas complexos.
+I am an electrical engineer and future data scientist, turning simple information into solutions for complex problems.
+
+---
 
