@@ -1,4 +1,4 @@
-![Design sem nome](https://github.com/GabKreuz/GabKreuz/assets/146242780/9efe7b61-6ded-4965-af21-7784d10be055)
+<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
 
 # Gabriel Kreuz
 
