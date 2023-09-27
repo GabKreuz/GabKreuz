@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ"/>
 
 # Gabriel Kreuz
 
