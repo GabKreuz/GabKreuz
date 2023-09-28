@@ -40,7 +40,7 @@ I'm an electrical engineer and future data scientist, turning simple information
 ### Github Dashboard
 
 
-<img align="left" alt="GitStats" width="400px" src="https://github-readme-stats.vercel.app/api?username=GabKreuz&theme=vue&show_icons=true&hide_border=true&count_private=false"/>
-<img align="right" alt="GitStats" width="424px" src="https://github-readme-streak-stats.herokuapp.com/?user=GabKreuz&theme=vue&hide_border=true"/>
+<img align="left" alt="GitStats" width="390px" src="https://github-readme-stats.vercel.app/api?username=GabKreuz&theme=vue&show_icons=true&hide_border=true&count_private=false"/>
+<img align="right" alt="GitStats" width="414px" src="https://github-readme-streak-stats.herokuapp.com/?user=GabKreuz&theme=vue&hide_border=true"/>
 
 <img align="center" alt="GitStats" width="1024px" style="padding:50px;" src="https://github-readme-activity-graph.vercel.app/graph?username=gabkreuz&bg_color=ffffff&color=080808&line=41ecc7&point=000000&area=true&hide_border=true"/>
